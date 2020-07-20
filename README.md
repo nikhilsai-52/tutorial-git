@@ -1,2 +1,2 @@
-#Git-tutorial
+#GitTutorial
 learning git
